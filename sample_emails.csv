@@ -1,0 +1,41 @@
+email_text,label
+"Dear customer, your account has been suspended. Click here immediately to verify your identity and restore access.",phishing
+"URGENT: Your bank account shows unusual activity. Confirm your password now to avoid permanent suspension.",phishing
+"Congratulations! You are the winner of a $1000 gift card. Click here to claim your prize before it expires.",phishing
+"Security alert: We detected a login attempt from an unknown device. Verify your account within 24 hours.",phishing
+"Your PayPal account has been limited. Update your billing information now to restore full access.",phishing
+"Dear user, act now! Your subscription will expire in 1 hour unless you confirm your payment details.",phishing
+"We noticed unusual activity on your social security number. Please verify your identity immediately.",phishing
+"Your Netflix payment failed. Update your billing information here to avoid account suspension.",phishing
+"IT Department: Your password will expire today. Click here to reset it immediately.",phishing
+"Amazon Security: Unusual sign-in attempt detected. Confirm your account now or it will be suspended.",phishing
+"Your package delivery failed. Click here and confirm your address to reschedule immediately.",phishing
+"Final warning: Your email storage is full. Click here now to avoid permanent data loss.",phishing
+"Dear team, your Microsoft 365 account requires urgent verification. Click the link to continue.",phishing
+"Your tax refund of $850 is pending. Verify your bank account details here to receive payment.",phishing
+"Attention: Suspicious login attempt from a foreign country. Confirm your identity within 24 hours.",phishing
+"Hi Sarah, thanks for sending over the quarterly report. I will review it and get back to you tomorrow.",legitimate
+"Hey, are we still meeting for lunch on Friday? Let me know what time works for you.",legitimate
+"The project deadline has been moved to next Monday. Please update your task list accordingly.",legitimate
+"Attached is the invoice for last month's consulting work. Let me know if you have any questions.",legitimate
+"Reminder: Team standup meeting tomorrow at 9 AM in the main conference room.",legitimate
+"Thank you for your order. Your package has shipped and should arrive within 5 business days.",legitimate
+"Hi John, great presentation today. Could you share the slides with the rest of the team?",legitimate
+"Your monthly newsletter is here! Check out this month's top articles and product updates.",legitimate
+"Just a reminder that the office will be closed on Monday for the public holiday.",legitimate
+"Can you review the attached document and send me your feedback by end of day?",legitimate
+"Happy birthday! Hope you have a wonderful day filled with great food and good company.",legitimate
+"The meeting notes from yesterday's call are attached for your reference.",legitimate
+"Your flight itinerary for next week has been confirmed. Check-in opens 24 hours before departure.",legitimate
+"Hi team, please find attached the updated budget spreadsheet for this quarter.",legitimate
+"Looking forward to catching up next week. Let me know your availability.",legitimate
+"Your library book is due in 3 days. You can renew it online through your account.",legitimate
+"Weekly digest: here are the top stories from this week that you might have missed.",legitimate
+"Hi, following up on our conversation from last week regarding the new hire process.",legitimate
+"Your subscription receipt is attached. Thank you for being a loyal customer.",legitimate
+"Reminder: your dentist appointment is scheduled for tomorrow at 2 PM.",legitimate
+"Great meeting you at the conference. Let's schedule a call to discuss the partnership further.",legitimate
+"The software update has been installed successfully on all company devices.",legitimate
+"Please find attached the minutes from today's board meeting for your records.",legitimate
+"Hi Anna, could you send me the client contact list when you get a chance?",legitimate
+"Your order has been delivered. We hope you enjoy your purchase!",legitimate
